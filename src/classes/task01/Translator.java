@@ -1,4 +1,4 @@
-package classes;
+package classes.task01;
 
 public abstract class Translator {
 
